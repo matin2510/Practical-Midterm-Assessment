@@ -7,9 +7,10 @@
     tools:context="nyc.c4q.mustafizurmatin.practicalmidtermassessment.LoopActivity">
 
     <TextView
+        android:id="@+id/loops"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Loops Completed"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
